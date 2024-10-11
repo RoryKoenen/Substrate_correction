@@ -1,6 +1,6 @@
 Topic: -Biochemistry -Enzymology -Thrombosis and hemostasis.
 
-The script is for the use of a continuous monitoring assay, in which a pro-enzyme is activated by an enzyme (complex). The activated proenzyme converts a substrate that is present in the solution. The resulting curve ideally is a parabola, but it is distorted by the consumption of the substrate (depending on its kinetic parameters). The script can be used to correct the substrate conversion under conditions where there is an inhibitor of the proenzyme activating enzyme is present.
+The script is for the use of a continuous monitoring assay, in which a pro-enzyme is activated by an enzyme (complex). The activated proenzyme converts a substrate that is present in the solution. The resulting curve ideally is a parabola, but it may be distorted by the consumption of the substrate (depending on its kinetic parameters). The script can be used to correct the substrate conversion under conditions where there is an inhibitor of the proenzyme activating enzyme is present.
 An example is tissue factor / factor VIIa that activates factor X, the factor Xa generated is measured by substate CS(11)65. An inhibitor (TFPI) can be titrated to the enzyme complex.
 Reference: Peraramelli S, et al., Inhibition of tissue factor:factor VIIa-catalyzed factor IX and factor X activation by TFPI and TFPI constructs. J Thromb Haemost. 2014; 12: 1826-37. 10.1111/jth.12713.
 
